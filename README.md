@@ -1,16 +1,23 @@
-## Hi there 👋
+## Tools for writers using AI
 
-<!--
-**tadelstein9/tadelstein9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Everything here runs on your own computer. Nothing uploads.
 
-Here are some ideas to get you started:
+**[md-in-chrome](https://github.com/tadelstein9/md-in-chrome)** — Open a
+markdown file in Chrome and read it the way it is meant to look. Fix a sentence
+while you are looking at it. Save writes an edit copy and leaves the original
+alone. Words you replaced stay on the page in red with a line through them, so
+the next reader sees what changed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[naturalizer](https://github.com/tadelstein9/naturalizer)** — Score a draft
+against a writer's own measured rates instead of against zero.
+
+**[overlap-check](https://github.com/tadelstein9/overlap-check)** — Find the
+same words in two files you already have. One chapter against another, or a
+draft against a research folder.
+
+**[eos](https://github.com/tadelstein9/eos)** — Five skills that turn a working
+session into a document your team can read, then check that document against
+what happened.
+
+I write at [Advance](https://tomadelstein.substack.com). Reply to anything
+there and it reaches me.
