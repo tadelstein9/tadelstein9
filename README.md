@@ -22,4 +22,4 @@ I have two Linux books in pre-publication. In ***Hands-On Linux Infrastructure**
 
 ### Where I write
 
-Writing about Linux runs through my whole career. I wrote about 300 articles on it between 1998 and 2007, many of them for *Linux Journal*, and O'Reilly published my *Linux System Administration*. I write now at **[Advance](https://tomadelstein.substack.com)**, from real runs in the lab. The latest piece shows how one fwupd command kept an older Dell booting Linux after Microsoft's 2011 Secure Boot certificate expired. Reply to any piece there and the note reaches me.
+Writing about Linux runs through my whole career. I wrote about 300 articles on it, many of them for *Linux Journal*, and O'Reilly published my *Linux System Administration*. I write now at **[Advance](https://tomadelstein.substack.com)**, from real runs in the lab. The latest piece shows how one fwupd command kept an older Dell booting Linux after Microsoft's 2011 Secure Boot certificate expired. Reply to any piece there and the note reaches me.
