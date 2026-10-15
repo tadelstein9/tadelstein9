@@ -1,6 +1,6 @@
 ## Tom Adelstein
 
-After I started Bynari, every Outlook specialist I asked said a company could not keep its Outlook calendars on an IMAP server. My engineers and I built one, with help from a SourceForge developer who ported Open DCE, and Winnebago replaced Microsoft Exchange with it for $20,000 against a $100,000 quote. In 2003 I wrote the method up in *Linux Journal* as "Understanding and Replacing Microsoft Exchange."
+After I started Bynari, every Outlook specialist I asked said a company could not keep its Outlook calendars on an IMAP server. My engineers and I built one, with help from a SourceForge developer who ported Open DCE, and Winnebago replaced Microsoft Exchange with it for $20,000 against a $100,000 quote. I wrote the method up in *Linux Journal* as "Understanding and Replacing Microsoft Exchange."
 
 I build the infrastructure a small organization runs on computers it owns.
 
