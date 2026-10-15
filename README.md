@@ -18,7 +18,7 @@ A coding agent holds only what fits in its context window, so I gave mine a data
 
 ### Two books in pre-publication
 
-I have two Linux books in pre-publication. In ***Hands-On Linux Infrastructure***, an engineer takes consulting engagements from a city, a county, a school and a hospital in Texas, and in each chapter brings a public office's existing computers up to the State's cybersecurity standard. I ran every command in it on the lab above. In ***You Didn't Know Linux***, I start the reader where I started in 1997, wanting Linux without knowing the commands, and walk through the problems I solved after the experts called them unsolvable.
+I have two Linux books in pre-publication. In ***Hands-On Linux Infrastructure***, an engineer takes consulting engagements from a city, a county, a school and a hospital in Texas, and in each chapter brings a public office's existing computers up to the State's cybersecurity standard. I ran every command in it on the lab above. In ***You Didn't Know Linux***, I start the reader where I started, wanting Linux without knowing the commands, and walk through the problems I solved after the experts called them unsolvable.
 
 ### Where I write
 
